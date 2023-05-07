@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.login-page {
+    background-image: url("bg_1.jpg");
+    /* The image used */
+    background-position: center;
+    /* Center the image */
+    background-repeat: no-repeat;
+    /* Do not repeat the image */
+    background-size: cover;
+    height: 450px;
+    /* Resize the background image to cover the entire container */
+}
+.btn2{
+    background-color: aliceblue;
+    border-color: black;
+    height: 35px;
+    width: 140px;
+    border-radius: 15px;
+    /* margin-left: 500px; */
+}
+.nav-link{
+    text-decoration: underline;
+    border-bottom: 2px greenyellow;
+}
+
+.navbar-toggler-icon {
+    display: inline-block;
+    width: 2.0em;
+    height: 1.5em;
+    vertical-align: middle;
+    background-repeat: no-repeat;
+    background-position: center;
+    white-space: none;
+    background-size: 100%
+}

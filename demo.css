@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+
+.navbar {
+    min-height: 80px;
+  }
+  
+  /* Set the logo size */
+  .navbar-brand img {
+    height: 50px;
+  }
+
+
+  .sidebar{
+    margin-bottom: 10px;
+    min-height: 150px;
+    min-width: 10px;
+    background-color: green;
+    text-align: center;
+  }
+
+  .mainarea{
+    margin-bottom: 10px;
+    min-height: 310px;
+    min-width: fit-content;
+    text-align: center;
+}
+
+  
